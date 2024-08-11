@@ -1,0 +1,7 @@
+void adrs() {
+    printf("Billing Address:\nAs per latest govt regulations, it's mandatory to provide your address.\n");
+    printf("Pincode:\t");
+    printf("Address:\n");
+    printf("City:\t");
+    printf("State:\n");
+}
